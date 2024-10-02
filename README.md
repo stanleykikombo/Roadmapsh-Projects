@@ -4,12 +4,11 @@
 
 1. Single Page HTML only CV - with instructions
 
-   - [singlePageCV](https://github.com/stanleykikombo/Roadmapsh-Projects/tree/main/Frontend/singlePageCV)
-   - Follow the above url.
-   - Click on the html file.
-   - Copy the raw file and run it on your code editor to see results on your browser.
+   - Copy the url. (Functions with Gitpages).
+     ```bash
+     https://stanleykikombo.github.io/Roadmapsh-Projects/Frontend/singlePageCV/
+   
+   - Paste it on your browser to see the results.
 
    If your interested in doing the same project - [Project URL](https://roadmap.sh/projects/single-page-cv)
 2.  
-   
-
