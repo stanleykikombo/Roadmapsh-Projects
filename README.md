@@ -5,9 +5,8 @@
 1. [Single Page HTML only CV](https://roadmap.sh/projects/single-page-cv)
 
 - This is an example of a single page HTML CV.
-- [HTML URL](https://github.com/stanleykikombo/Roadmapsh-Projects/tree/main/Frontend/singlePageC)
-
-#### Instructions to Run the Project
+- [Project URL](https://github.com/stanleykikombo/Roadmapsh-Projects/tree/main/Frontend/singlePageC)
+- 
 
 
 
