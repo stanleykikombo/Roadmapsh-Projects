@@ -8,9 +8,10 @@
 This is an example single page HTML CV project.
 
 ### Project URL
-Stanley Kikombo - CV
+https://github.com/stanleykikombo/Roadmapsh-Projects/tree/main/Frontend/singlePageCV
 
 #### Instructions to Run the Project
+
 
 
 2. 
