@@ -1,31 +1,24 @@
 # Roadmapsh-Projects
 
 ## Frontend Projects
+1. [SinglePageCV-code](https://github.com/stanleykikombo/Roadmapsh-Projects/tree/main/Frontend/singlePageCV) 
+2. [basicHTMLwebsite-code](https://github.com/stanleykikombo/Roadmapsh-Projects/tree/main/Frontend/basicHTMLwebsite)
+   
 
-1. **Single Page HTML only CV - with instructions** <br> <br>
-   **HTML CODE**
-   - [SinglePageCV-code](https://github.com/stanleykikombo/Roadmapsh-Projects/tree/main/Frontend/singlePageCV)
-
+**Frontend Projects URLs - If your interested in doing the same projects**
+  1. [SinglePageCV-URL](https://roadmap.sh/projects/single-page-cv)
+  2. [basicHTMLwebsite-URL](https://roadmap.sh/projects/basic-html-website)
+     
+    
    **Instructions**
-   - Copy the url. (Functions with Gitpages).
+   - Copy the following urls. (Functions with Gitpages).
+   - Paste them on your browser to see the results.
+     
      ```bash
      https://stanleykikombo.github.io/Roadmapsh-Projects/Frontend/singlePageCV/
    
-   - Paste it on your browser to see the results.
-   
-
-   If your interested in doing the same project - [Project URL](https://roadmap.sh/projects/single-page-cv)
-   
-2. **Basic HTML Website - with instructions** <br> <br>
-   **HTML CODE**
-   - [SinglePageCV-code](https://github.com/stanleykikombo/Roadmapsh-Projects/tree/main/Frontend/singlePageCV)
-
-   **Instructions**
-   - Copy the url. (Functions with Gitpages).
+   - Paste it on your browser to see the results
      ```bash
-     https://stanleykikombo.github.io/Roadmapsh-Projects/Frontend/singlePageCV/
-   
-   - Paste it on your browser to see the results.
-   
+     https://stanleykikombo.github.io/Roadmapsh-Projects/Frontend/basicHTMLwebsite/
 
-   If your interested in doing the same project - [Project URL](https://roadmap.sh/projects/single-page-cv) 
+   
