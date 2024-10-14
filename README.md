@@ -7,7 +7,7 @@
 
 **Frontend Projects URLs - If your interested in doing the same projects**
   1. [SinglePageCV-URL](https://roadmap.sh/projects/single-page-cv)
-  2. [basicHTMLwebsite-URL](https://roadmap.sh/projects/basic-html-website)
+  2. [BasicHTMLWebsite-URL](https://roadmap.sh/projects/basic-html-website)
      
     
    **Instructions**
