@@ -1,4 +1,4 @@
-# Roadmapsh-Projects
+# Roadmap.sh-Projects
 
 ## Frontend Projects
 1. [SinglePageCV-code](https://github.com/stanleykikombo/Roadmapsh-Projects/tree/main/Frontend/singlePageCV) 
